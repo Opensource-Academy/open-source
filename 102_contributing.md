@@ -1,7 +1,10 @@
-# Open source
-Getting started with, working with and contributing to open source (software)
+# Open source 102 - Contributing
 
-This project refers a lot to a really useful project by GitHub: https://opensource.guide/
+## Get started
+Most people think of programming when they hear open source. However, there is **much** more to open source than that. GitHub has published a fantastic guide on [contributing to open source](https://opensource.guide/how-to-contribute/).
+
+## Programming
+If you want to join a project in a programming related matter, be sure to study up on [git](https://github.com/Opensource-Academy/git) and [documentation](https://github.com/Opensource-Academy/documentation).
 
 ```
    Copyright 2018 Opensource Academy
